@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Om Prakash Yadav",
+    "occupation": "NIT Durgapur",
+    "description": "Full Stack web & App developer",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am OM PRAKASH YADAV . ",
+    "contactmessage": "Get in touch with me ",
+    "email": "jnvomprakash121@gmail.com",
+    "phone": "+91 9064377742",
+    "address": {
+      "street": "Parbelia Colliery Amdanga",
+      "city": "Purulia",
+      "state": "West Bengal",
+      "zip": "723121"
+    },
+    "website": "#",
+    "resumedownload": "/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PapaReact",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "National Institute Of Technology Durgapur",
+        "degree": "Bachelor's Degree, Mechanical Engineering",
+        "graduated": "July 2024",
+        "description": " 10th & 12th - Jawahar Navodaya Vidyalaya , Purulia (W.B.) "
+      }
+    ],
+    "work": [
+      {
+        "company": "ISTE Student's Chapter NIT Durgapur",
+        "title": "Junior Web Developer",
+        "years": "Nov 2020 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
