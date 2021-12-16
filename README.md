@@ -2,4 +2,4 @@
 
 ![Om Prakash Yadav](resume-screenshot.png?raw=true)
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://om-prakash-yadav.vercel.app/">LIVE DEMO</a>
